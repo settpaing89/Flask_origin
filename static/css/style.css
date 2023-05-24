@@ -1,0 +1,52 @@
+/* Body */
+body {
+  background-color: #FFF5E6; /* Light pastel orange */
+  color: #333; /* Dark text color */
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+h1 {
+  color: #FF9933; /* Bright orange */
+}
+
+/* Links */
+a {
+  color: #FF9933; /* Bright orange */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFCC99; /* Lighter orange on hover */
+}
+
+/* Forms */
+input[type="text"],
+input[type="password"],
+button {
+  background-color: #FFDAB9; /* Pale orange */
+  border: none;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  color: #FFF;
+  background-color: #FF9933; /* Bright orange */
+  cursor: pointer;
+}
+
+/* Containers */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Footer */
+footer {
+  background-color: #FFCC99; /* Light orange */
+  color: #FFF;
+  padding: 10px;
+  text-align: center;
+}
